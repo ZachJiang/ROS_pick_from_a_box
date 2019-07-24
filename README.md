@@ -20,8 +20,8 @@ This is a course project which is done in Fall Semester of 2017. Generally, it i
 7. [ROS rosserial_arduino package](http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup#Installing_the_Software)
 
 ## Documents:
-####Report:
+#### Report:
 The term project report shows more details of the project and it is shown above.
 
-#####Video:
+##### Video:
 pick_from_a_box(https://youtu.be/-pF8JjM8N58)
