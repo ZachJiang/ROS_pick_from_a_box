@@ -18,3 +18,10 @@ This is a course project which is done in Fall Semester of 2017. Generally, it i
 5. [ROS apriltags_ros package](http://wiki.ros.org/apriltags_ros)
 6. [MoveIt!](https://moveit.ros.org/)
 7. [ROS rosserial_arduino package](http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup#Installing_the_Software)
+
+## Documents:
+####Report:
+The term project report shows more details of the project and it is shown above.
+
+#####Video:
+pick_from_a_box(https://youtu.be/-pF8JjM8N58)
