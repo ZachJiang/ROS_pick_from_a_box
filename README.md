@@ -23,5 +23,5 @@ This is a course project which is done in Fall Semester of 2017. Generally, it i
 #### Report:
 The term project report shows more details of the project and it is shown above.
 
-##### Video:
+#### Video:
 pick_from_a_box(https://youtu.be/-pF8JjM8N58)
